@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>picture/btn_back_r_normal.png</file>
+    <file>picture/btn_photo_normal2.png</file>
+    <file>picture/btn_photo_normal1.png</file>
+    <file>picture/btn_photo_normal.png</file>
+    <file>picture/btn_off.png</file>
+    <file>picture/btn_on.png</file>
+  </qresource>
+</RCC>
